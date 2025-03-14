@@ -9,6 +9,7 @@ from transformers import pipeline
 
 # Download necessary NLTK data
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Initialize models
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
