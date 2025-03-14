@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+nltk
+sentence-transformers
+faiss-cpu
+transformers
+torch
